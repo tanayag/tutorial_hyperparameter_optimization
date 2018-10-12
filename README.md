@@ -1,6 +1,6 @@
 ## WorkFlow
 
-* First we'll begin with the slides and theoretically explain what hyper-parameter optimization is, how it is done and the advance techniques that can be used to do so.
+* First we will begin with the slides and theoretically explain what hyper-parameter optimization is, how it is done and the advance techniques that can be used to do so.
 
 * Now that its theory is covered we'll move to iPython notebook named,
 "Hyperparameter_optimization_good_and_bad_hps.ipynb" and see how hyperparameters effects the algorithm and do some exercise on the same. At the end of this notebook you'll learn how important it is to select best hyperparameters.
