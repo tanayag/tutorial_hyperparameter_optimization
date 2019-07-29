@@ -1,6 +1,6 @@
 ## WorkFlow
 
-* First we'll begin with the [slides](https://slides.com/tanayagrawal/efficient-hyperparameter-optimization#/
+* First we'll begin with the [slides](https://slides.com/anubhavkesari/efficient-hyperparameter-optimization#/
 ) and theoretically explain what hyper-parameter optimization is, how it is done and the advance techniques that can be used to do so.
 
 * Now that its theory is covered we'll move to iPython notebook named,
