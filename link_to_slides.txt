@@ -1,1 +1,1 @@
-https://slides.com/tanayagrawal/efficient-hyperparameter-optimization#/
+https://slides.com/anubhavkesari/efficient-hyperparameter-optimization/#/
